@@ -1,5 +1,19 @@
 # Changelog
 
+## [6.6.0](https://github.com/Gaisberg/streamnzb/compare/v6.5.0...v6.6.0) (2026-11-24)
+
+
+### Features
+
+* **jellyfin:** support user item ratings ([#425](https://github.com/Gaisberg/streamnzb/issues/425)) ([13e0906](https://github.com/Gaisberg/streamnzb/commit/13e0906a363dec1940c17345076b3ad7e2fec10b))
+
+
+### Bug Fixes
+
+* **ebml:** preserve first-pass consistency across repaired holes ([#412](https://github.com/Gaisberg/streamnzb/issues/412)) ([43b2def](https://github.com/Gaisberg/streamnzb/commit/43b2defc99b38b62200bc2af6d05c1248d8471c9)), closes [#411](https://github.com/Gaisberg/streamnzb/issues/411)
+* **release:** treat dotless and non-public hosts as private release URLs ([#415](https://github.com/Gaisberg/streamnzb/issues/415)) ([5186291](https://github.com/Gaisberg/streamnzb/commit/5186291df825c4e9e1f3e417b118352697d6bb58))
+* **stremio:** apply poster overlays to MDBList catalogs ([#416](https://github.com/Gaisberg/streamnzb/issues/416)) ([2f4bce4](https://github.com/Gaisberg/streamnzb/commit/2f4bce4feec886a94f1a02c19384a1aa6d43e71f)), closes [#414](https://github.com/Gaisberg/streamnzb/issues/414)
+
 ## [6.5.0](https://github.com/Gaisberg/streamnzb/compare/v6.4.0...v6.5.0) (2026-11-14)
 
 
